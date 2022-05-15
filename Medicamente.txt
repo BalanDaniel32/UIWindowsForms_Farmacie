@@ -1,0 +1,2 @@
+1;Paracetamol;Durere;Raceala;Raceala;
+2;Aspirina;Rau;Dureri;Dureri;9
